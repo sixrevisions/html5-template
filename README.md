@@ -9,27 +9,27 @@ Basic boilerplate markup (blank HTML document template) for practical HTML5-capa
 Copy and paste the following into a blank HTML document, fill in the blanks, and modify as needed:
 
 ```
-&lt;!DOCTYPE html&gt;
-&lt;head&gt;
-&lt;title&gt;&lt;/title&gt;
-&lt;meta charset=&quot;utf-8&quot;&gt;
-&lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;
-&lt;meta name=&quot;author&quot; content=&quot;&quot;&gt;
-&lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot;&gt;
-&lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;
-&lt;link rel=&quot;stylesheet&quot; href=&quot;&quot;&gt;
-&lt;!--[if lt IE 9]&gt;
-&lt;script src=&quot;//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js&quot;&gt;&lt;/script&gt;
-&lt;script src=&quot;//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js&quot;&gt;&lt;/script&gt;
-&lt;![endif]--&gt;
-&lt;link rel=&quot;shortcut icon&quot; href=&quot;&quot;&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;!-- Place your content here --&gt;
-&lt;!-- SCRIPTS --&gt;
-&lt;!-- Example: &lt;script src=&quot;//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js&quot;&gt;&lt;/script&gt; --&gt;
-&lt;/body&gt;
-&lt;/html&gt;
+<!DOCTYPE html>
+<head>
+<title></title>
+<meta charset="utf-8">
+<meta name="description" content="">
+<meta name="author" content="">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="">
+<!--[if lt IE 9]>
+<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<link rel="shortcut icon" href="">
+</head>
+<body>
+<!-- Place your content here -->
+<!-- SCRIPTS -->
+<!-- Example: <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+</body>
+</html>
 ```
 
 ## Browser Support
