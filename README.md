@@ -9,6 +9,12 @@ Basic boilerplate markup (blank HTML document template) for practical HTML5-capa
 You can read about this boilerplate in greater detail on Six Revisions: [A Generic HTML5 Template](http://sixrevisions.com/html5/html5-template/)
 
 ## How to Use
+
+```
+git clone https://github.com/sixrevisions/html5-template.git **/your/local/repository**
+```
+
+### Or...
 Copy and paste the following into a blank HTML document, fill in the blanks, and modify as needed:
 
 ```
