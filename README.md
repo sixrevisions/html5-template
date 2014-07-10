@@ -11,7 +11,7 @@ You can read about this boilerplate in greater detail on Six Revisions: [A Gener
 ## How to Use
 
 ```
-git clone https://github.com/sixrevisions/html5-template.git **/your/local/repository**
+git clone https://github.com/sixrevisions/html5-template.git /your/local/directory
 ```
 
 ### Or...
