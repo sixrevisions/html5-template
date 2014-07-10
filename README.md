@@ -19,6 +19,7 @@ Copy and paste the following into a blank HTML document, fill in the blanks, and
 
 ```
 <!DOCTYPE html>
+<html>
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta charset="utf-8">
@@ -34,7 +35,9 @@ Copy and paste the following into a blank HTML document, fill in the blanks, and
 <link rel="shortcut icon" href="">
 </head>
 <body>
+
 <!-- Place your content here -->
+
 <!-- SCRIPTS -->
 <!-- Example: <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
 </body>
