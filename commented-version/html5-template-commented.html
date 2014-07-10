@@ -4,12 +4,14 @@
      READ: https://www.modern.ie/en-us/performance/how-to-use-x-ua-compatible -->
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+<!-- Declare a character set for web performance
+     Do it through the HTTP header as the first option
+     Make sure HTTP header and meta tag are the same
+     READ: https://developers.google.com/speed/docs/best-practices/rendering#SpecifyCharsetEarly -->
+<meta charset="utf-8">  
+  
 <!-- Specify web page title -->
 <title></title>
-
-<!-- Declare a character set for web performance
-     READ: https://developers.google.com/speed/docs/best-practices/rendering#SpecifyCharsetEarly -->
-<meta charset="utf-8">
 
 <!-- Specify the web page description -->
 <meta name="description" content="">
@@ -51,7 +53,8 @@
 <!-- Place your content here -->
 <a href="http://sixrevisions.com/html5/html5-template/">Read the tutorial</a>
 
-<!-- Put render-blocking scripts here if possible -->
+<!-- Put render-blocking scripts here if possible
+     and use async attribute if possible -->
 <!-- SCRIPTS -->
 <!-- Example: <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
 </body>
