@@ -45,7 +45,7 @@ Copy and paste the following into a blank HTML document, fill in the blanks and 
 
 ## Browser Support
 - Mobile browsers are instructed to render the layout using `width=device-width` and `initial-scale=1`
-- IE 9 and above are supported by the use of a conditional comment that loads [html5shiv](https://github.com/aFarkas/html5shiv) and [Respond.js](https://github.com/scottjehl/Respond) for support of new HTML5 elements and media queries (served through jsDelivr and cdnjs.com public CDNs respectively)
+- IE 9 and above are supported by the use of a conditional comment that loads [html5shiv](https://github.com/aFarkas/html5shiv) and [Respond.js](https://github.com/scottjehl/Respond) for support of new HTML5 elements and media queries
 
 ##Some Notes
 - The conditional comments for IE 9 support, as well as the example script at the `<!-- SCRIPTS -->` section, uses a public CDN for open source libraries, [cdnjs.com](http://cdnjs.com/) that's sponsored by a reputable CDN provider, CloudFlare.
