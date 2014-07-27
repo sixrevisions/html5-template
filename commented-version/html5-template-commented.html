@@ -33,10 +33,10 @@
      Specify the URI of stylesheets in href attribute -->
 <link rel="stylesheet" href="">
 
-<!-- Load htmlshiv and Respond.js for old IE versions so we can use
-     HTML5 elements and media queries -->
+<!-- Load htmlshiv and Respond.js for IE 9+ support
+     of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
-<script src="//cdn.jsdelivr.net/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
 <![endif]-->
 
@@ -62,6 +62,7 @@
 <!-- Put render-blocking scripts here if possible
      and use async attribute if possible -->
 <!-- SCRIPTS -->
-<!-- Example: <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script> -->
+<!-- Example: <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> -->
+<!-- NOTE: jQuery 2.x is used in the script reference example above, which doesn't support IE 8 and below. -->
 </body>
 </html>
